@@ -1,0 +1,6 @@
+[submodule "click-to-bigger"]
+	path = click-to-bigger
+	url = git@github.com:lhyUnited/click-to-bigger.git
+[submodule "mode-toggle"]
+	path = mode-toggle
+	url = git@github.com:lhyUnited/mode-toggle.git
